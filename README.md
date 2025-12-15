@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rakshanda Noor
+# Hi, I’m Rakshanda Noor
 
 ## About Me
 I’m a Computer Science undergraduate at Jamia Hamdard University with a strong interest in developing impactful and scalable tech solutions. I am passionate about web development, DevOps, and data science, and I’m actively working on enhancing my skills in these domains.

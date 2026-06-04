@@ -16,10 +16,10 @@
 
 # About Me `:>`
 
-> *"The best engineers I know didn't just study software — they shipped it."*
+> *"The best engineers I know didn't just study software, they shipped it."*
 > That's the standard I hold myself to.
 
-I'm **Rakshanda Noor** — a final-year CS student who spends more time
+I'm **Rakshanda Noor**  a final-year CS student who spends more time
 building than browsing tutorials.
 
 My focus sits at the intersection of three things I genuinely care about:
@@ -31,7 +31,7 @@ My focus sits at the intersection of three things I genuinely care about:
 Right now I'm **preparing for SWE internships**, shipping side projects,
 and looking for people working on problems worth solving.
 
-If that's you — my inbox is open.
+If that's you my inbox is open.
 
 <!-- ═══════════════════════════════════════════════
      SNAKE ANIMATION
@@ -40,7 +40,7 @@ If that's you — my inbox is open.
      ═══════════════════════════════════════════════ -->
 ![Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-> **Note** · If a repo looks interesting, don't forget to drop a ⭐ — it genuinely helps!
+> **Note** · If a repo looks interesting, don't forget to drop a ⭐ it genuinely helps!
 
 ---
 # Featured Projects `:>`
@@ -150,7 +150,7 @@ If that's you — my inbox is open.
 
 # Learning Roadmap `:>`
 
-> What I'm actively working through right now — not someday, right now.
+> What I'm actively working through right now not someday, right now.
 
 | Phase | Area | What I'm Building Toward |
 |-------|------|--------------------------|

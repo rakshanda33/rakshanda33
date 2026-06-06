@@ -14,7 +14,7 @@
 
 </div>
 
-# About Me `:>`
+# About Me 
 
 > *"The best engineers I know didn't just study software, they shipped it."*
 > That's the standard I hold myself to.
@@ -43,7 +43,7 @@ If that's you my inbox is open.
 > **Note** · If a repo looks interesting, don't forget to drop a ⭐ it genuinely helps!
 
 ---
-# Featured Projects `:>`
+# Featured Projects 
 
 <!-- ═══════════════════════════════════════════════
      PROJECTS TABLE — same structured aesthetic as
@@ -148,7 +148,7 @@ If that's you my inbox is open.
 
 ---
 
-# Learning Roadmap `:>`
+# Learning Roadmap
 
 > What I'm actively working through right now not someday, right now.
 
@@ -213,7 +213,7 @@ If that's you my inbox is open.
 -->
 ---
 
-# CoLLAB wiTH M-E `:>`
+# CoLLAB wiTH M-E 
 
 <div align="center">
 
